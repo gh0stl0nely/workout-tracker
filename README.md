@@ -2,7 +2,7 @@
 
 A fitness tracker that allows users to add exercises to their workout routine and track the progress of their routine.
 
-[Demo](https://gh0stl0nely-note-taker-app.glitch.me/)
+[Demo](https://fitness-track3r.herokuapp.com/)
 
 ## GIF Demonstration
 
