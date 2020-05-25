@@ -2,7 +2,11 @@
 
 A fitness tracker that allows users to add exercises to their workout routine and track the progress of their routine.
 
-Demo -> [Here]()
+[Demo](https://gh0stl0nely-note-taker-app.glitch.me/)
+
+## GIF Demonstration
+
+![Demo](./demo/start-app.gif)
 
 ## User Story
 
